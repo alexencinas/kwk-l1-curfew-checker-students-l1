@@ -2,6 +2,7 @@ def simple_curfew_checker(time)
   time>=11
   puts "You are in trouble"
 end
+simple_curfew_checker
 
 def curfew_checker(time)
   time
